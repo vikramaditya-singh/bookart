@@ -1,0 +1,3 @@
+function testCtrl(){
+	alert("testing");
+}
